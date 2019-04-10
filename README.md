@@ -1,2 +1,1 @@
-# TinDog2019
-0410
+TinDog Starting Files
